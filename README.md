@@ -47,6 +47,7 @@ The robot arm is integrated with the Robotic Operating System (ROS), facilitatin
 [![Time Lapse Progress 1 Video](https://img.youtube.com/vi/koc0hcRBnc4/0.jpg)](https://www.youtube.com/watch?v=koc0hcRBnc4)
 [![Time Lapse Progress 2 Video](https://img.youtube.com/vi/_52Ok5-Nh48/0.jpg)](https://www.youtube.com/watch?v=_52Ok5-Nh48)
 [![Time Lapse Progress 3 Video](https://img.youtube.com/vi/duVsPM09UFM/0.jpg)](https://www.youtube.com/watch?v=duVsPM09UFM)
+
 [Back To The Top](#Pierronetic)
 
 ---
